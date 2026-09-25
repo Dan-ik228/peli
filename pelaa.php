@@ -16,7 +16,7 @@
         <a href="http://localhost/Daniil/Osa_3.1/orig/pelaa.php">Pelaa</a>
     </div>
     <div>
-        <h2>Miten pelataan?</h2>
+        <h2>Miten pelataan peliä?</h2>
         <img src="kakpela.jpg" alt="">
         <br>
         1. Tee ensimmäinen valinta – keneltä haluat oppia ja mistä aiheesta?
